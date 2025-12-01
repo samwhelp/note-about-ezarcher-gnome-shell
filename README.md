@@ -25,6 +25,7 @@
 | --- |
 | [Ezarcher Gnome Shell Config](https://github.com/samwhelp/ezarcher-gnome-shell-adjustment/tree/main/prototype/main/gnome-shell-config/part/Main) |
 | [Tool Config](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/main/tool-config/part) |
+| [簡易微調](https://github.com/samwhelp/ezarcher-gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-adjustment) |
 
 
 
